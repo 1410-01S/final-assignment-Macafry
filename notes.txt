@@ -1,0 +1,4 @@
+I did this project on eclipse since I knew I was likely to need a lot of refactoring and I feel more comfortable refactoring in eclipse. 
+It works when I run it on VSCode, but that may be because of the way I have my VSCode configured. 
+Either way, I took a look at how others uploaded their projects and compacted mine into a single file. 
+I still included the original eclipse project inside the 'eclipse_structure' folder.
